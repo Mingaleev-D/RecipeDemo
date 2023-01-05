@@ -2,4 +2,9 @@
     <string name="app_name">RecipeDemo</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat?</string>
+    <string name="img_random_meal">img random meal</string>
+    <string name="no_internet">no internet</string>
+    <string name="categories">Categories</string>
+    <string name="meal_image">meal image</string>
 </resources>
